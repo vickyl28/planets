@@ -1,1 +1,2 @@
 add some first notes about mars
+This is the second version
